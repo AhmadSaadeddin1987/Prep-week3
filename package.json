@@ -1,0 +1,16 @@
+{
+  "name": "hyf-program",
+  "version": "1.0.0",
+  "description": "HackYourFuture Prep Week 3",
+  "main": "find-mentors.js",
+  "type": "module",
+  "scripts": {
+    "start": "node find-mentors.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.4"
+  }
+}
